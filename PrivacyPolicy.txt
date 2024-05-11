@@ -1,0 +1,44 @@
+Privacy Policy
+I. Introduction
+We take user privacy very seriously and are committed to protecting the security of users' personal information. This Privacy Policy aims to explain how we collect, use, store, and share your personal information. Please read this Policy carefully before using our app to understand our privacy practices.
+II. Collection of Information
+When you use our app, we may collect certain personal information from you, such as device information (e.g., device model, operating system version, etc.), network connection information (e.g., IP address), and data generated during your interaction with the app (e.g., search queries, usage frequency, etc.).
+We may also collect non-personal information through third-party services (e.g., advertising networks) to optimize our services and advertisements.
+III. Use of Information
+We use the collected information to improve our app, provide personalized services, send you notifications, and conduct data analysis.
+We may use your personal information to contact you to provide updates, support, or respond to your requests.
+IV. Sharing of Information
+We do not sell your personal information to third parties.
+We may share non-personal information with partners to improve our services and advertisements.
+We may need to share your information in legal requirements or to respond to legal procedures.
+V. Information Security
+We take reasonable technical and organizational measures to protect your personal information from unauthorized access, use, disclosure, modification, or destruction. However, please note that internet transmission is not completely secure, and we cannot guarantee the absolute security of data during transmission.
+VI. User Rights
+You have the right to request us to access, correct, delete your personal information, or request us to stop processing your personal information. If you have such a request, please contact us through our support channels.
+VII. Policy Changes
+We may update this Privacy Policy based on business needs or legal changes. When the policy changes, we will notify you through in-app notifications or other means. Please check this policy regularly to understand any changes.
+VIII. Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us through the following ways: mikedeng888@gmail.com.
+
+隐私权政策
+一、引言
+我们非常重视用户的隐私，并承诺保护用户个人信息的安全。本隐私权政策旨在解释我们如何收集、使用、存储和分享您的个人信息。请在使用我们的应用之前，仔细阅读本政策，以了解我们的隐私实践。
+二、信息的收集
+1. 当您使用我们的应用时，我们可能会收集您的某些个人信息，如设备信息（如设备型号、操作系统版本等）、网络连接信息（如IP地址）以及您与应用交互时产生的数据（如搜索查询、使用频率等）。
+2. 我们还可能通过第三方服务（如广告网络）收集非个人身份信息，以优化我们的服务和广告。
+三、信息的使用
+1. 我们将收集到的信息用于改进我们的应用、提供个性化服务、向您发送通知以及进行数据分析等。
+2. 我们可能会使用您的个人信息来与您联系，以提供更新、支持或响应您的请求。
+四、信息的共享
+1. 我们不会将您的个人信息出售给第三方。
+2. 我们可能会与合作伙伴共享非个人身份信息，以改进我们的服务和广告。
+3. 在法律要求或为了响应法律程序的情况下，我们可能需要共享您的信息。
+五、信息安全
+我们采取合理的技术和组织措施来保护您的个人信息免受未经授权的访问、使用、披露、修改或破坏。然而，请注意，互联网传输并非完全安全，我们无法确保数据在传输过程中的绝对安全。
+六、用户权利
+您有权要求我们访问、更正、删除您的个人信息，或要求我们停止处理您的个人信息。如果您有此类请求，请通过我们的支持渠道与我们联系。
+七、政策变更
+我们可能会根据业务需求或法律变化更新本隐私权政策。当政策发生变更时，我们将通过应用内的通知或其他方式通知您。请定期查看本政策以了解任何变更。
+八、联系我们
+如果您对我们的隐私权政策有任何疑问或建议，请通过以下方式与我们联系：mikedeng888@gmail.com
+
